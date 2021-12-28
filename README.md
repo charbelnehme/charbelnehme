@@ -1,5 +1,10 @@
+# Hello #
 
+My name is Charbel Nehme.
 
+I'm currently enrolled in a FinTech program at the University of Sydney where I hope to gain knowledge and experience in Python, financial libraries, machine learning algorithms, solidity smart contracts, ethereum and blockchain.
+
+- [Hello](#hello)
 - [Heading levels](#heading-levels)
   - [👋 Hi, I’m @charbelnehme..](#-hi-im-charbelnehme)
     - [Sub-heading](#sub-heading)
