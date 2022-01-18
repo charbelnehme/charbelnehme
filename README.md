@@ -3,7 +3,7 @@
 - [👋 Hi, I’m @charbelnehme..](#-hi-im-charbelnehme)
 - [💞️ Employment History ...](#️-employment-history-)
   - [CNA Immigration](#cna-immigration)
-    - [Business Owner and Company Director](#business-owner-and-company-director)
+    - [Managing Director](#managing-director)
       - [2009 - Present](#2009---present)
   - [CNA Immigration](#cna-immigration-1)
     - [Senior Migration Consultant](#senior-migration-consultant)
@@ -14,8 +14,6 @@
   - [Andre Burger & Associates](#andre-burger--associates)
     - [Registered Migration Agent](#registered-migration-agent)
       - [2008 - 2009](#2008---2009)
-- [💞️ Interests ...](#️-interests-)
-- [📫 How to reach me ...](#-how-to-reach-me-)
 
 
 # 👋 Hi, I’m @charbelnehme..
@@ -26,7 +24,7 @@ I'm currently enrolled in a FinTech program at the University of Sydney where I 
 # 💞️ Employment History ...
 
 ## CNA Immigration 
-### Business Owner and Company Director 
+### Managing Director 
 #### 2009 - Present 
 * Responsible for the management and overall direction of CNA Immigration. 
 * Authorizing material human and financial resources to implement business functions including marketing, sales, finance, human resources and client services. Monitoring and evaluating the performance of business functions against Key Performance Indicators. 
@@ -54,14 +52,6 @@ Maintaining confident and up to date knowledge of migration law, policy and tren
 ### Registered Migration Agent 
 #### 2008 - 2009
 I gained my initial experience as a registered migration agent with Andre Burger & Associates. My work was predominantly involved in corporate visa sponsorships and skilled visa categories at the departmental level.
-
-# 💞️ Interests ...
-
-Text
-
-# 📫 How to reach me ...
-
-Text 
 
 <!---
 charbelnehme/charbelnehme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
