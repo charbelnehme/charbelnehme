@@ -1,12 +1,13 @@
-<h3 align="left">
+<h2 align="left">
   Charbel Nehme
- 
+</h2>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=20&color=1D15C8&lines=Registered+Migration+Agent;Company+Director;Fintech+Professional;Blockchain+Developer;Wine+Connoisseur)](https://git.io/typing-svg)
-</h3>
+
+### My Life in Python
 
 ```
-### My Life as a Python Function
-class CharbelNehme < Person
+class CharbelNehme < Me
   def initialize
     @name = 'Charbel Nehme'
     @preferred_title = 'Uncle Chester'
