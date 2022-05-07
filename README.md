@@ -5,7 +5,7 @@
 </h3>
 
 ```
-class Sy < Person
+class CharbelNehme < Person
   def initialize
     @name = 'Charbel Nehme'
     @preferred_title = 'Uncle Chester'
