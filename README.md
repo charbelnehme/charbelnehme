@@ -5,6 +5,7 @@
 </h3>
 
 ```
+### My Life as a Python Function
 class CharbelNehme < Person
   def initialize
     @name = 'Charbel Nehme'
