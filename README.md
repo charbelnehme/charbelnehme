@@ -2,7 +2,7 @@
   Charbel Nehme
 </h2>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=20&color=1D15C8&lines=Registered+Migration+Agent;Company+Director;Fintech+Professional;Blockchain+Developer;Wine+Connoisseur)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=20&color=1D15C8&lines=Registered+Migration+Agent;Company+Director;Fintech+Professional;Blockchain+Developer;Wine+Connoisseur;Burger+Lover)](https://git.io/typing-svg)
 
 ### Python
 
@@ -13,7 +13,7 @@ class CharbelNehme < Me
     @preferred_title = 'Uncle Chester'
     @work = ['CNA Immigration', 'Craddock Murray Neumann', 'Andrew Burder & Associates']
     @education = ['The University of Sydney', 'Victoria University', 'LPAB']
-    @hobbies = ['Wine']
+    @hobbies = ['Wine and Burgers']
     @contact = 'charbel.nehme@outlook.com' 
   end
 
