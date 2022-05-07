@@ -2,7 +2,7 @@
   Charbel Nehme
 </h2>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=20&color=1D15C8&lines=Registered+Migration+Agent;Company+Director;Fintech+Professional;Blockchain+Developer;Wine+Connoisseur;Burger+Lover)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=20&color=1D15C8&lines=Registered+Migration+Agent;Company+Director;Fintech+Professional;Blockchain+Developer;Wine+Connoisseur)](https://git.io/typing-svg)
 
 ### Python
 
@@ -31,16 +31,32 @@ class CharbelNehme < Me
   def managing_director
    {
     Title: 'Managing Director'
-    Description: '    ' 
+    Description: ' Responsible for the management and overall direction of CNA Immigration,
+                   Authorizing material human and financial resources to implement business operations and client services.                    
+                   Ensure compliance of business activites with the OMARA Code of Professional Conduct for registered migration agents. '  
   end
 
   def registered_migration_agent
     {
     Title: 'Registered Migration Agent'
-    Description: '  '
+    Description: ' Undertake initial consultations with individual and corporate clients to develop commercially-sound immigration strategies, whilst ensuring compliance with                    the Migration Agents Code of Conduct. 
+    Provide immigration assistance to individuals and businesses in matters before the Department of Home Affairs across all visa categories including (but not limited to): business, corporate, skilled, regional and family based immigration to Australia. 
+    Undertaking reviews of visa refusal and cancellation decisions at the Administrative Appeals Tribunal and Ministerial Intervention. 
+    Liaising with the Department of Home Affairs, Skill Assessing Authorities, Administrative Appeals Tribunal and other stakeholders.  
+    Preparation of high quality submission to support representations made at all levels.
+    Maintaining confident and up to date knowledge of migration law, policy and trends to collaborate with clients and colleagues. 
     }
   end 
-
+  
+  def independent_contractor
+  { 
+  Title: 
+  Description:     Provided immigration assistance to boat arrivals / asylum seekers under the Immigration Advice and Application Assistance Scheme (IAAAS). 
+    Participated in numerous government taskforces in detention facilities on Christmas Island and the RAAAF air force based in Curtin (Western Australia).
+    Immigration assistance provided to individual detainees on an ongoing basis at Villawood Immigration Detention Centre (IDC). 
+   
+  end
+  
   def present
    {
     Learning: 'Solidity',
