@@ -4,6 +4,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1C6280&lines=Registered+Migration+Agent;Company+Director;Fintech+Professional;Aspiring+Blockchain+Developer)](https://git.io/typing-svg)
 
+<!-- Markdown -->
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 ```ruby
 class CharbelNehme < Me
   def initialize
