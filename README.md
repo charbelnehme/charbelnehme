@@ -2,7 +2,7 @@
   Charbel Nehme
 </h2>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1C6280&lines=Registered+Migration+Agent;Company+Director;Fintech+Professional;Blockchain+Developer+(In+Training))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1C6280&lines=Registered+Migration+Agent;Company+Director;Fintech+Professional;Aspiring+Blockchain+Developer)](https://git.io/typing-svg)
 
 ### Python
 
@@ -13,70 +13,82 @@ class CharbelNehme < Me
     @preferred_title = 'Uncle Chester'
     @work = ['CNA Immigration', 'Craddock Murray Neumann', 'Andrew Burger & Associates']
     @education = ['The University of Sydney', 'Victoria University', 'LPAB']
-    @hobbies = ['Wine and Burgers']
-    @contact = 'charbel.nehme@outlook.com' 
   end
-
+  
+  def summary
+   {
+    about_me: '    ' 
+   }
+   
   def current_location
     'Sydney, Australia'
   end
-
+  
+  def contact
+   {
+    email: charbel.nehme@outlook.com
+    linkedIN: 
+    facebook: 
+    whatsapp: 
+   }
+  
+  def name
+   {
+    name: 'Charbel Nehme'
+    preffered_title: 'Uncle Chester'
+    
   def fintech_professional
    {
-    Title:
-    Description: 
+    description: 
    }
   end 
 
   def managing_director
    {
-    Title: 'Managing Director'
-    Description: ' Responsible for the management and overall direction of CNA Immigration,
-                   Authorizing material human and financial resources to implement business operations and client services.                    
-                   Ensure compliance of business activites with the OMARA Code of Professional Conduct for registered migration agents. '  
+    title: 'Managing Director'
+    start_date: 'October 2009'
+    end_date: 'Current Position'
+    company_profile: '
   end
 
   def registered_migration_agent
-    {
-    Title: 'Registered Migration Agent'
-    Description: ' Undertake initial consultations with individual and corporate clients to develop commercially-sound immigration strategies, whilst ensuring compliance with                    the Migration Agents Code of Conduct. 
-    Provide immigration assistance to individuals and businesses in matters before the Department of Home Affairs across all visa categories including (but not limited to): business, corporate, skilled, regional and family based immigration to Australia. 
-    Undertaking reviews of visa refusal and cancellation decisions at the Administrative Appeals Tribunal and Ministerial Intervention. 
-    Liaising with the Department of Home Affairs, Skill Assessing Authorities, Administrative Appeals Tribunal and other stakeholders.  
-    Preparation of high quality submission to support representations made at all levels.
-    Maintaining confident and up to date knowledge of migration law, policy and trends to collaborate with clients and colleagues. 
-    }
+   {
+    title: 'Registered Migration Agent'
+    start_date: 
+    end_date: 'Current Position'
+   }
   end 
   
   def independent_contractor
-  { 
-  Title: 
-  Description:     Provided immigration assistance to boat arrivals / asylum seekers under the Immigration Advice and Application Assistance Scheme (IAAAS). 
-    Participated in numerous government taskforces in detention facilities on Christmas Island and the RAAAF air force based in Curtin (Western Australia).
-    Immigration assistance provided to individual detainees on an ongoing basis at Villawood Immigration Detention Centre (IDC). 
-   
-  end
+   { 
+    title: 'Independent Contractor'
+    employer: Craddock Murray Neumann Lawyers
+    start_date:
+    end_date:
+   }
+   end
   
   def present
    {
-    Learning: 'Solidity',
-    Reading: [ 'Mastering Ethereum, Building Smart Contracts and DAPPS: Andreas M. Antonopoloulos and Dr. Gavin Wood' ]
-    Experimenting: [ 'Streamlit' ]
+    learning: ['Solidity']
+    reading: ['Mastering Ethereum, Building Smart Contracts and DAPPS: Andreas M. Antonopoloulos and Dr. Gavin Wood']
+    experimenting: ['Streamlit,' Alpaca Trade API,' 'Binance API']
     }
    end
   
   def future
    {
-    Learning: '    ',
-    Reading: [ '    ' ]
-    Experimenting: [ '   ' ]
-    }
+    learning: ['    ']
+    reading: ['    ']
+    experimenting: ['MONAI AI: Medical Open Network for Artificial Intelligence']
+   }
    end
  
   def favourite_quote
    {
-    Quote = 'Don't Lie, Cheat or Steal'
-    Author = 'Christopher Levingston, Legal Practitioner'
+    quote = 'Don't Lie, Cheat or Steal'
+    author = 'Christopher Levingston, Legal Practitioner'
+    overview = '   '
     }
   end
 ```
