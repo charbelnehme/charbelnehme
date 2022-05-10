@@ -37,42 +37,6 @@ class CharbelNehme < Me
     whatsapp: 
    }
   
-  def name
-   {
-    name: 'Charbel Nehme'
-    preffered_title: 'Uncle Chester'
-    
-  def fintech_professional
-   {
-    description: 
-   }
-  end 
-
-  def managing_director
-   {
-    title: 'Managing Director'
-    start_date: 'October 2009'
-    end_date: 'Current Position'
-    company_profile: '
-  end
-
-  def registered_migration_agent
-   {
-    title: 'Registered Migration Agent'
-    start_date: 
-    end_date: 'Current Position'
-   }
-  end 
-  
-  def independent_contractor
-   { 
-    title: 'Independent Contractor'
-    employer: Craddock Murray Neumann Lawyers
-    start_date:
-    end_date:
-   }
-   end
-  
   def present
    {
     learning: ['Solidity']
@@ -88,12 +52,5 @@ class CharbelNehme < Me
     experimenting: ['MONAI AI: Medical Open Network for Artificial Intelligence']
    }
    end
- 
-  def favourite_quote
-   {
-    quote = 'Don't Lie, Cheat or Steal'
-    author = 'Christopher Levingston, Legal Practitioner'
-    overview = '   '
-    }
-  end
+
 ```
