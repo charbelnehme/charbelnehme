@@ -4,13 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1C6280&lines=Registered+Migration+Agent;Company+Director;Fintech+Professional;Aspiring+Blockchain+Developer)](https://git.io/typing-svg)
 
-<!-- Markdown -->
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
-<!-- HTML -->
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-
 ```ruby
 class CharbelNehme < Me
   def initialize
@@ -33,8 +26,6 @@ class CharbelNehme < Me
    {
     email: charbel.nehme@outlook.com
     linkedIN: 
-    facebook: 
-    whatsapp: 
    }
   
   def present
@@ -44,13 +35,5 @@ class CharbelNehme < Me
     experimenting: ['Streamlit,' Alpaca Trade API,' 'Binance API']
     }
    end
-  
-  def future
-   {
-    learning: ['    ']
-    reading: ['    ']
-    experimenting: ['MONAI AI: Medical Open Network for Artificial Intelligence']
-   }
-   end
-
+   
 ```
