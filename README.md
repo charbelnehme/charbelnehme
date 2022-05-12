@@ -8,7 +8,6 @@
 class CharbelNehme < Me
   def initialize
     @name = 'Charbel Nehme'
-    @preferred_title = 'Uncle Chester'
     @work = ['CNA Immigration', 'Craddock Murray Neumann', 'Andrew Burger & Associates']
     @education = ['The University of Sydney', 'Victoria University', 'LPAB']
   end
