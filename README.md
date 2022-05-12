@@ -8,8 +8,7 @@
 class CharbelNehme < Me
   def initialize
     @name = 'Charbel Nehme'
-    @work = ['CNA Immigration', 'Craddock Murray Neumann', 'Andrew Burger & Associates']
-    @education = ['The University of Sydney', 'Victoria University', 'LPAB']
+    @education = ['The University of Sydney', 'Victoria University']
   end
   
   def summary
