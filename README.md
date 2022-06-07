@@ -6,32 +6,9 @@
 
 ```ruby
 class CharbelNehme < Me
-  def initialize
-    @name = 'Charbel Nehme'
-    @education = ['The University of Sydney', 'Victoria University']
-  end
-  
   def summary
-   {
-    about_me: '    ' 
-   }
-   
-  def current_location
-    'Sydney, Australia'
+  {
+
+  }
   end
-  
-  def contact
-   {
-    email: charbel.nehme@outlook.com
-    linkedIN: 
-   }
-  
-  def present
-   {
-    learning: ['Solidity']
-    reading: ['Mastering Ethereum, Building Smart Contracts and DAPPS: Andreas M. Antonopoloulos and Dr. Gavin Wood']
-    experimenting: ['Streamlit,' Alpaca Trade API,' 'Binance API']
-    }
-   end
-   
 ```
